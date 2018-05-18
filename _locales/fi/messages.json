@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Speak mahdolliset"
+   },
+   "clear": {
+      "message": "Puhtaita"
+   },
+   "dblclick": {
+      "message": "Tuplaklikkaa sana kääntää"
+   },
+   "description": {
+      "message": "Ddict auttaa sinua hetkessä kääntää tekstiä verkkosivustoja tai PDF-tiedostoja tuplaklikkaa tai näppäimen painalluksella."
+   },
+   "detect": {
+      "message": "Tunnista kieli"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Täytyy päivittää kaikki välilehdet soveltaa edellä asetukset."
+   },
+   "shift": {
+      "message": "Korosta tekstiä ja valitse \"Shift\"-painiketta kääntää"
+   },
+   "translate": {
+      "message": "Käännä"
+   },
+   "translating": {
+      "message": "Kääntäminen ..."
+   }
+}

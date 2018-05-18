@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Bercakap jika ada"
+   },
+   "clear": {
+      "message": "Bersih"
+   },
+   "dblclick": {
+      "message": "Double Klik pada perkataan untuk menterjemahkan"
+   },
+   "description": {
+      "message": "Ddict membantu anda serta-merta menterjemah teks pada laman web atau fail PDF dengan klik dua kali atau penekanan kekunci."
+   },
+   "detect": {
+      "message": "Kesan bahasa"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Perlu untuk menyegarkan semua tab untuk menggunakan tetapan di atas."
+   },
+   "shift": {
+      "message": "Highlight teks kemudian tekan \"Shift\" untuk menterjemahkan"
+   },
+   "translate": {
+      "message": "Terjemah"
+   },
+   "translating": {
+      "message": "Menterjemahkan ..."
+   }
+}

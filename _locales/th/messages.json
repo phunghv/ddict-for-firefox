@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "ออโต้พูดถ้ามี"
+   },
+   "clear": {
+      "message": "ทำความสะอาด"
+   },
+   "dblclick": {
+      "message": "ดับเบิ้ลคลิกที่คำแปล"
+   },
+   "description": {
+      "message": "Ddict จะช่วยให้คุณทันทีแปลข้อความในเว็บไซต์หรือไฟล์ PDF โดยดับเบิลคลิกหรือกดปุ"
+   },
+   "detect": {
+      "message": "ตรวจหาภาษา"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "ต้องรีเฟรชแท็บทั้งหมดที่จะใช้การตั้งค่าดังกล่าวข้างต้น"
+   },
+   "shift": {
+      "message": "ไฮไลท์ข้อความแล้วกด \"Shift\" ปุ่มที่จะแปล"
+   },
+   "translate": {
+      "message": "แปลภาษา"
+   },
+   "translating": {
+      "message": "แปล ..."
+   }
+}

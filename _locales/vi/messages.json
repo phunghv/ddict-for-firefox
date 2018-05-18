@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Tự động đọc văn bản nếu có"
+   },
+   "clear": {
+      "message": "Xóa"
+   },
+   "dblclick": {
+      "message": "Nhấp đúp vào từ để dịch"
+   },
+   "description": {
+      "message": "Ddict giúp bạn dịch ngay lập tức bất kỳ văn bản trên các trang web hoặc các tập tin PDF với một nhấp đúp chuột hoặc bấm phím."
+   },
+   "detect": {
+      "message": "Phát hiện ngôn ngữ"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Cần phải làm mới(refresh) tất cả các tab để áp dụng các cài đặt ở trên."
+   },
+   "shift": {
+      "message": "Tô đen văn bản sau đó nhấn nút \"Shift\" để dịch"
+   },
+   "translate": {
+      "message": "Dịch"
+   },
+   "translating": {
+      "message": "Đang dịch..."
+   }
+}

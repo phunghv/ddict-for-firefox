@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Magsalita kung mayroon man"
+   },
+   "clear": {
+      "message": "Malinis"
+   },
+   "dblclick": {
+      "message": "Double-click sa salita upang isalin"
+   },
+   "description": {
+      "message": "Agad na i-translate ang teksto sa mga website o mga PDF file sa pamamagitan ng isang double-click o isang keypress."
+   },
+   "detect": {
+      "message": "Alamin ang wika"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Kailangan mo upang i-refresh ang lahat ng mga tab upang ilapat ang mga setting sa itaas."
+   },
+   "shift": {
+      "message": "Pindutan ng I-highlight ang teksto pagkatapos ay pindutin ang \"Shift\" upang i-translate"
+   },
+   "translate": {
+      "message": "Isalin"
+   },
+   "translating": {
+      "message": "Nagsasalin ..."
+   }
+}

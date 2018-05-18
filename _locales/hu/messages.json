@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Speak ha"
+   },
+   "clear": {
+      "message": "Tiszta"
+   },
+   "dblclick": {
+      "message": "Kattintson duplán a szót lefordítani"
+   },
+   "description": {
+      "message": "Ddict segít azonnal lefordítani a szöveget a weboldalakon vagy PDF fájlok dupla kattintással, vagy egy gombnyomással."
+   },
+   "detect": {
+      "message": "Nyelv felismerése"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Kell frissíteni az összes lapot alkalmazni fenti beállítások."
+   },
+   "shift": {
+      "message": "Jelölje ki a szöveget, majd nyomja meg a \"Shift\" gomb lefordítani"
+   },
+   "translate": {
+      "message": "Fordítás"
+   },
+   "translating": {
+      "message": "Fordítás folyamatban ..."
+   }
+}

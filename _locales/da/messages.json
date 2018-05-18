@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Automatisk Tal om nogen"
+   },
+   "clear": {
+      "message": "Ren"
+   },
+   "dblclick": {
+      "message": "Dobbeltklik på ord til at oversætte"
+   },
+   "description": {
+      "message": "Ddict hjælper dig øjeblikkeligt oversætte teksten på websider eller PDF-filer med et dobbeltklik eller et tastetryk."
+   },
+   "detect": {
+      "message": "Registrer sprog"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Behov for at opdatere alle fanerne for at anvende ovenstående indstillinger."
+   },
+   "shift": {
+      "message": "Fremhæv tekst og tryk derefter på \"Shift\" knappen for at oversætte"
+   },
+   "translate": {
+      "message": "Oversæt"
+   },
+   "translating": {
+      "message": "Oversætte ..."
+   }
+}

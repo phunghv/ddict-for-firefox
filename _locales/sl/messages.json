@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Speak če obstajajo"
+   },
+   "clear": {
+      "message": "Clean"
+   },
+   "dblclick": {
+      "message": "Dvakrat kliknite na besedo prevesti"
+   },
+   "description": {
+      "message": "Ddict vam pomaga takoj prevede besedilo na spletnih straneh ali v datotekah PDF z dvojnim klikom ali pritiskom tipke."
+   },
+   "detect": {
+      "message": "Zaznavanje jezika"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Morali osvežiti vse zavihke uporablja zgornje nastavitve."
+   },
+   "shift": {
+      "message": "Označite besedilo, nato pritisnite \"Shift\" gumb za prevajanje"
+   },
+   "translate": {
+      "message": "Translate"
+   },
+   "translating": {
+      "message": "Prevajanje ..."
+   }
+}

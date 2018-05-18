@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "অটো যদি কোনো কথা বলুন"
+   },
+   "clear": {
+      "message": "পরিষ্কার"
+   },
+   "dblclick": {
+      "message": "শব্দ উপর ডাবল ক্লিক করুন অনুবাদ"
+   },
+   "description": {
+      "message": "Ddict আপনি অবিলম্বে একটি ডবল ক্লিক করুন অথবা একটি keypress দ্বারা ওয়েবসাইট বা পিডিএফ ফাইল টেক্সট অনুবাদ করতে সাহায্য করে."
+   },
+   "detect": {
+      "message": "ভাষা সনাক্ত করুন"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "উপরে সেটিংস প্রয়োগ করতে সকল ট্যাব রিফ্রেশ প্রয়োজন."
+   },
+   "shift": {
+      "message": "হাইলাইট টেক্সট তারপর টিপুন \"Shift\" বাটন অনুবাদ"
+   },
+   "translate": {
+      "message": "অনুবাদ"
+   },
+   "translating": {
+      "message": "অনুবাদ ..."
+   }
+}

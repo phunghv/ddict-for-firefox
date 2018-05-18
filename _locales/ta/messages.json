@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "ஆட்டோ ஏதாவது பேச"
+   },
+   "clear": {
+      "message": "சுத்தமான"
+   },
+   "dblclick": {
+      "message": "வார்த்தை Double Click மொழிபெயர்க்க"
+   },
+   "description": {
+      "message": "Ddict நீங்கள் உடனடியாக ஒரு இரட்டை கிளிக் அல்லது ஒரு keypress மூலம் வலைத்தளங்கள் அல்லது PDF கோப்புகளை உரை மொழிபெயர்க்க உதவுகிறது."
+   },
+   "detect": {
+      "message": "மொழி கண்டறிய"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "மேலே உள்ள அமைப்புகளை விண்ணப்பிக்க அனைத்து தாவல்களையும் புதுப்பிக்க வேண்டும்."
+   },
+   "shift": {
+      "message": "சிறப்பம்சமாக உரை பின்னர் அழுத்தவும் \"Shift\" பொத்தானை மொழிபெயர்க்க"
+   },
+   "translate": {
+      "message": "மொழிபெயர்"
+   },
+   "translating": {
+      "message": "மொழிபெயர்க்கிறது ..."
+   }
+}

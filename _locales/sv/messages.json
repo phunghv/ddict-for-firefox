@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto talar om någon"
+   },
+   "clear": {
+      "message": "Ren"
+   },
+   "dblclick": {
+      "message": "Dubbelklicka på ord att översätta"
+   },
+   "description": {
+      "message": "Ddict hjälper dig att direkt översätta text på webbsidor eller PDF-filer genom att dubbelklicka eller en knapptryckning."
+   },
+   "detect": {
+      "message": "Identifiera språk"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Behov av att uppdatera alla flikar för att tillämpa ovanstående inställningar."
+   },
+   "shift": {
+      "message": "Markera text och tryck sedan på \"Shift\" för att översätta"
+   },
+   "translate": {
+      "message": "Trans"
+   },
+   "translating": {
+      "message": "Översätter ..."
+   }
+}

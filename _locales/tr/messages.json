@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Otomatik varsa konuş"
+   },
+   "clear": {
+      "message": "Temiz"
+   },
+   "dblclick": {
+      "message": "Sözcüğün üzerine çift tıklayın çevirmek için"
+   },
+   "description": {
+      "message": "Ddict anında bir çift tıklama ya da bir tuşa basma ile web sitelerinde veya PDF dosyaları üzerinde metin çevirmek yardımcı olur."
+   },
+   "detect": {
+      "message": "Dil Algılama"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Yukarıdaki ayarları uygulamak için tüm sekmeleri yenilemeniz gerekir."
+   },
+   "shift": {
+      "message": "Metin vurgulama ardından basın \"Shift\" düğmesini çevirmek için"
+   },
+   "translate": {
+      "message": "Çevir"
+   },
+   "translating": {
+      "message": "Çevriliyor ..."
+   }
+}

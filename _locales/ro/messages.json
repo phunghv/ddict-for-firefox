@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Vorbește dacă este cazul"
+   },
+   "clear": {
+      "message": "Clean"
+   },
+   "dblclick": {
+      "message": "Dublu clic pe cuvânt pentru a traduce"
+   },
+   "description": {
+      "message": "Ddict vă ajută să traduce instantaneu text pe site-uri sau fișiere PDF cu un dublu clic sau o apăsare de tastă."
+   },
+   "detect": {
+      "message": "Detectare limbă"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Necesitatea de a actualiza toate filele pentru a aplica setările de mai sus."
+   },
+   "shift": {
+      "message": "Selectați textul, apoi apăsați \"Shift\" pentru a traduce"
+   },
+   "translate": {
+      "message": "Traducere"
+   },
+   "translating": {
+      "message": "Traducerea ..."
+   }
+}

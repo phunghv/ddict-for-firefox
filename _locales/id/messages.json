@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Bicara jika ada"
+   },
+   "clear": {
+      "message": "Bersih"
+   },
+   "dblclick": {
+      "message": "Klik ganda pada kata yang akan diterjemahkan"
+   },
+   "description": {
+      "message": "Ddict membantu Anda langsung menerjemahkan teks pada situs atau file PDF dengan klik ganda atau menekan tombol."
+   },
+   "detect": {
+      "message": "Deteksi bahasa"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Perlu untuk me-refresh semua tab untuk menerapkan pengaturan di atas."
+   },
+   "shift": {
+      "message": "Teks Sorot lalu tekan \"Shift\" tombol untuk menerjemahkan"
+   },
+   "translate": {
+      "message": "Terjemahkan"
+   },
+   "translating": {
+      "message": "Menerjemahkan ..."
+   }
+}

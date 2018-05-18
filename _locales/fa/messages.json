@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "خودکار صحبت در صورت وجود"
+   },
+   "clear": {
+      "message": "پاک"
+   },
+   "dblclick": {
+      "message": "ترجمه در کلمه دوبار کلیک کنید"
+   },
+   "description": {
+      "message": "Ddict شما کمک می کند فورا ترجمه متن در وب سایت و یا فایل های PDF با یک کلیک دو برابر و یا فشار کلید."
+   },
+   "detect": {
+      "message": "تشخیص زبان"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "نیاز به تازه کردن تمام زبانه ها به درخواست تنظیمات بالا."
+   },
+   "shift": {
+      "message": "متن هایلایت سپس دکمه \"Shift\" را فشار دهید برای ترجمه"
+   },
+   "translate": {
+      "message": "ترجمه"
+   },
+   "translating": {
+      "message": "ترجمه ..."
+   }
+}

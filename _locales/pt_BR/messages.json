@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Fala se houver"
+   },
+   "clear": {
+      "message": "Limpar"
+   },
+   "dblclick": {
+      "message": "Clique duas vezes na palavra para traduzir"
+   },
+   "description": {
+      "message": "Ddict ajuda a traduzir instantaneamente texto em sites ou arquivos PDF através de um clique duplo ou um toque no teclado."
+   },
+   "detect": {
+      "message": "Detectar idioma"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Necessidade de atualizar todas as guias para aplicar as configurações acima."
+   },
+   "shift": {
+      "message": "Realçar o texto em seguida, pressione \"Shift\" para traduzir"
+   },
+   "translate": {
+      "message": "Traduzir"
+   },
+   "translating": {
+      "message": "Traduzindo ..."
+   }
+}

@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Speak, jei bet"
+   },
+   "clear": {
+      "message": "Švaraus"
+   },
+   "dblclick": {
+      "message": "Dukart spustelėkite žodį išversti"
+   },
+   "description": {
+      "message": "Ddict padeda jums akimirksniu išversti tekstą interneto svetainėse ar PDF failų dvigubu spustelėjimu arba klavišo paspaudimu."
+   },
+   "detect": {
+      "message": "Aptikti kalbą"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Reikia atnaujinti visus skirtukus taikyti šiuos nustatymus."
+   },
+   "shift": {
+      "message": "Pažymėkite tekstą ir paspauskite \"Shift\" mygtuką išversti"
+   },
+   "translate": {
+      "message": "Versti"
+   },
+   "translating": {
+      "message": "Verčiame ..."
+   }
+}

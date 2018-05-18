@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto דבר אם בכלל"
+   },
+   "clear": {
+      "message": "נקי"
+   },
+   "dblclick": {
+      "message": "לחץ לחיצה כפולה על מילה לתרגם"
+   },
+   "description": {
+      "message": "Ddict עוזר לך באופן מיידי לתרגם טקסט באתרי אינטרנט או קבצי PDF על ידי לחיצה כפולה או לחיצה על מקש כלשהו."
+   },
+   "detect": {
+      "message": "אתר שפה"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "צריך לרענן את כל הכרטיסיות כדי להחיל הגדרות לעיל."
+   },
+   "shift": {
+      "message": "סמנו טקסט לאחר מכן לחץ על \"Shift\" כפתור לתרגם"
+   },
+   "translate": {
+      "message": "תרגום"
+   },
+   "translating": {
+      "message": "תרגום ..."
+   }
+}

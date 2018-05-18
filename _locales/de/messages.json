@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto sprechen, wenn eine"
+   },
+   "clear": {
+      "message": "Sauber"
+   },
+   "dblclick": {
+      "message": "Klicken Sie doppelt auf Wort zu übersetzen"
+   },
+   "description": {
+      "message": "Ddict hilft Ihnen sofort übersetzen Text auf Webseiten oder PDF-Dateien durch einen Doppelklick oder ein Tastendruck."
+   },
+   "detect": {
+      "message": "Sprache erkennen"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Müssen alle Registerkarten aktualisieren, um über Einstellungen anzuwenden."
+   },
+   "shift": {
+      "message": "Markieren Sie Text, und drücken Sie dann \"Shift\"-Taste, um zu übersetzen"
+   },
+   "translate": {
+      "message": "Übersetzen"
+   },
+   "translating": {
+      "message": "Übersetzen ..."
+   }
+}

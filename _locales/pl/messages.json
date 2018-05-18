@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Mów jeśli auto"
+   },
+   "clear": {
+      "message": "Czyste"
+   },
+   "dblclick": {
+      "message": "Kliknij dwukrotnie na słowo do przetłumaczenia"
+   },
+   "description": {
+      "message": "Błyskawicznie przetłumaczyć tekst na stronach internetowych lub plików PDF poprzez podwójne kliknięcie lub naciśnięcie klawisza."
+   },
+   "detect": {
+      "message": "Wykrywania języka"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Trzeba odświeżyć wszystkie karty do zastosowania powyższych ustawień."
+   },
+   "shift": {
+      "message": "Zaznacz tekst, a następnie naciśnij przycisk \"Shift\" przycisk, aby przetłumaczyć"
+   },
+   "translate": {
+      "message": "Przetłumacz"
+   },
+   "translating": {
+      "message": "Tłumaczenia ..."
+   }
+}

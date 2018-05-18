@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Govorite li bilo"
+   },
+   "clear": {
+      "message": "Čist"
+   },
+   "dblclick": {
+      "message": "Dvostruki klik na riječ prevesti"
+   },
+   "description": {
+      "message": "Ddict pomaže vam odmah prevesti tekst na web stranicama ili PDF datoteke dvostrukim klikom ili pritiskom na tipku."
+   },
+   "detect": {
+      "message": "Otkrivanje jezik"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Trebate osvježiti sve kartice primijeniti navedene postavke."
+   },
+   "shift": {
+      "message": "Označite tekst i pritisnite \"Shift\" gumb za prevođenje"
+   },
+   "translate": {
+      "message": "Prevoditelj"
+   },
+   "translating": {
+      "message": "Prijevod u tijeku ..."
+   }
+}

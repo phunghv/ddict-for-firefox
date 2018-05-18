@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "自动说话如有"
+   },
+   "clear": {
+      "message": "清洁"
+   },
+   "dblclick": {
+      "message": "双击单词翻译"
+   },
+   "description": {
+      "message": "Ddict帮助您立即通过双击或按键上的翻译网站或PDF文件的文本。"
+   },
+   "detect": {
+      "message": "检测语言"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "需要刷新所有标签应用上面的设置。"
+   },
+   "shift": {
+      "message": "突出显示文本，然后按“Shift”按钮来翻译"
+   },
+   "translate": {
+      "message": "翻译"
+   },
+   "translating": {
+      "message": "翻译..."
+   }
+}

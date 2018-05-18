@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "もしあれば自動車は話す"
+   },
+   "clear": {
+      "message": "クリーン"
+   },
+   "dblclick": {
+      "message": "翻訳する単語をダブルクリックする"
+   },
+   "description": {
+      "message": "Ddictは、即座にダブルクリックやキー入力などによってウェブサイトやPDFファイル上のテキストを翻訳するのに役立ちます。"
+   },
+   "detect": {
+      "message": "言語を検出"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "上記の設定を適用するためにすべてのタブを更新する必要があります。"
+   },
+   "shift": {
+      "message": "ハイライトテキストは、Enterキーを押し、 \"Shift\"ボタンを翻訳する"
+   },
+   "translate": {
+      "message": "翻訳する"
+   },
+   "translating": {
+      "message": "翻訳..."
+   }
+}

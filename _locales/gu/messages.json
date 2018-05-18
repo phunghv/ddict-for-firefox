@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "ઓટો જો કોઈ હોય તો ચર્ચા કરો"
+   },
+   "clear": {
+      "message": "સ્વચ્છ"
+   },
+   "dblclick": {
+      "message": "શબ્દ પર ડબલ ક્લિક કરો અનુવાદ કરવા"
+   },
+   "description": {
+      "message": "Ddict તમે તરત ડબલ ક્લિક અથવા કીપ્રેસ દ્વારા વેબસાઇટ્સ અથવા પીડીએફ ફાઇલો પર લખાણ અનુવાદ છે."
+   },
+   "detect": {
+      "message": "ભાષા શોધો"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "ઉપર સુયોજનો લાગુ કરવા માટે બધા ટૅબ્સ તાજું કરવાની જરૂર છે."
+   },
+   "shift": {
+      "message": "હાઇલાઇટ લખાણ પછી દબાવો \"Shift\" બટન અનુવાદ કરવા"
+   },
+   "translate": {
+      "message": "અનુવાદ"
+   },
+   "translating": {
+      "message": "અનુવાદ ..."
+   }
+}

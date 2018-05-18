@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "ऑटो यदि कोई हो बोलो"
+   },
+   "clear": {
+      "message": "साफ"
+   },
+   "dblclick": {
+      "message": "शब्द पर डबल क्लिक करें अनुवाद करने के लिए"
+   },
+   "description": {
+      "message": "Ddict आप तुरन्त एक डबल क्लिक करें या एक कुंजी दबाने से वेबसाइटों या पीडीएफ फाइलों पर पाठ का अनुवाद में मदद करता है."
+   },
+   "detect": {
+      "message": "भाषा का पता"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "ऊपर सेटिंग्स लागू करने के लिए सभी टैब ताज़ा करने की आवश्यकता."
+   },
+   "shift": {
+      "message": "हाइलाइट पाठ तो प्रेस \"Shift\" बटन अनुवाद करने के लिए"
+   },
+   "translate": {
+      "message": "अनुवाद करें"
+   },
+   "translating": {
+      "message": "अनुवाद जारी है ..."
+   }
+}

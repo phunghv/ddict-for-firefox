@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Räägi kui tahes"
+   },
+   "clear": {
+      "message": "Clean"
+   },
+   "dblclick": {
+      "message": "Topeltklõps sõna tõlkida"
+   },
+   "description": {
+      "message": "Ddict aitab tõlgib teksti veebisaitidel või PDF-failide topeltklõps või klahvivajutusega."
+   },
+   "detect": {
+      "message": "Tuvasta keel"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Vajadus värskendada kõik kaardid kohaldada eespool seaded."
+   },
+   "shift": {
+      "message": "Highlight tekst seejärel vajutage \"Shift\" nuppu tõlkida"
+   },
+   "translate": {
+      "message": "Tõlgi"
+   },
+   "translating": {
+      "message": "Tõlkimine ..."
+   }
+}

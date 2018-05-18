@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "자동있는 경우 이야기"
+   },
+   "clear": {
+      "message": "청소"
+   },
+   "dblclick": {
+      "message": "단어를 더블 클릭하여 번역 할"
+   },
+   "description": {
+      "message": "Ddict 즉시 더블 클릭이나 키 누르기에 의해 웹 사이트 또는 PDF 파일에 텍스트를 번역하는 데 도움이됩니다."
+   },
+   "detect": {
+      "message": "언어를 감지"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "위의 설정을 적용하려면 모든 탭을 새로해야합니다."
+   },
+   "shift": {
+      "message": "텍스트 강조 표시는 다음 Enter 키를 눌러 \"Shift\"버튼을 번역하기"
+   },
+   "translate": {
+      "message": "번역"
+   },
+   "translating": {
+      "message": "번역 ..."
+   }
+}

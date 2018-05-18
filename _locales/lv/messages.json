@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Speak ja kāds"
+   },
+   "clear": {
+      "message": "Clean"
+   },
+   "dblclick": {
+      "message": "Dubultklikšķi uz vārda tulkot"
+   },
+   "description": {
+      "message": "Ddict palīdz jums uzreiz tulkot tekstu par mājas lapas vai PDF failus ar dubultklikšķi vai taustiņa nospiešanas."
+   },
+   "detect": {
+      "message": "Noteikt valodu"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Vajag atsvaidzināt visas cilnes pieteikties iepriekš uzstādījumus."
+   },
+   "shift": {
+      "message": "Izcelt tekstu un pēc tam nospiediet \"Shift\" pogu, lai tulkotu"
+   },
+   "translate": {
+      "message": "Tulkot"
+   },
+   "translating": {
+      "message": "Tulkoju ..."
+   }
+}

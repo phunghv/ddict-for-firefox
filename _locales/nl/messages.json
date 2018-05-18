@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Spreek eventueel"
+   },
+   "clear": {
+      "message": "Schoon"
+   },
+   "dblclick": {
+      "message": "Dubbelklik op woord te vertalen"
+   },
+   "description": {
+      "message": "Ddict helpt u direct tekst op websites of PDF-bestanden te vertalen door een dubbele klik of een toetsdruk."
+   },
+   "detect": {
+      "message": "Detecteren taal"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Moeten alle tabbladen vernieuwen om bovenstaande instellingen toe te passen."
+   },
+   "shift": {
+      "message": "Tekst markeren en druk vervolgens op \"Shift\"-knop om te vertalen"
+   },
+   "translate": {
+      "message": "Vertalen"
+   },
+   "translating": {
+      "message": "Vertalen ..."
+   }
+}

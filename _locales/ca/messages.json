@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Acte parla en el seu cas"
+   },
+   "clear": {
+      "message": "Clean"
+   },
+   "dblclick": {
+      "message": "Feu doble clic a la paraula per traduir"
+   },
+   "description": {
+      "message": "Ddict t'ajuda a traduir el text en llocs web o arxius PDF amb un doble clic o prémer una tecla."
+   },
+   "detect": {
+      "message": "Detectar idioma"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Necessitat d'actualitzar totes les pestanyes per aplicar els paràmetres anteriors."
+   },
+   "shift": {
+      "message": "Selecciona el text a continuació, premeu el botó \"Shift\" per traduir"
+   },
+   "translate": {
+      "message": "Traduir"
+   },
+   "translating": {
+      "message": "Traduint ..."
+   }
+}

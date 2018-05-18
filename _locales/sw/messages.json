@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Ongea kama wapo"
+   },
+   "clear": {
+      "message": "Safi"
+   },
+   "dblclick": {
+      "message": "Double Click juu ya neno kutafsiri"
+   },
+   "description": {
+      "message": "Ddict husaidia instantly kutafsiri Nakala kwenye tovuti au files PDF na click mara mbili au keypress."
+   },
+   "detect": {
+      "message": "Tambua lugha"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Haja na kupata mahitaji tabo wote kuomba mazingira hapo juu."
+   },
+   "shift": {
+      "message": "Highlight Nakala basi vyombo vya habari \"Shift\" button kutafsiri"
+   },
+   "translate": {
+      "message": "Kutafsiri"
+   },
+   "translating": {
+      "message": "Kutafsiri ..."
+   }
+}

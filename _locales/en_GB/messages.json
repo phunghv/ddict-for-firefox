@@ -1,0 +1,32 @@
+{
+   "audio": {
+      "message": "Auto Speak if any"
+   },
+   "clear": {
+      "message": "Clean"
+   },
+   "dblclick": {
+      "message": "Double Click on word to translate"
+   },
+   "description": {
+      "message": "Ddict helps you instantly translate text on websites or PDF files by a double click or a keypress."
+   },
+   "detect": {
+      "message": "Detect language"
+   },
+   "name": {
+      "message": "Ddict Translate: Translator - Dictionary"
+   },
+   "note": {
+      "message": "Need to refresh all tabs to apply above settings."
+   },
+   "shift": {
+      "message": "Highlight text then press \"Shift\" button to translate"
+   },
+   "translate": {
+      "message": "Translate"
+   },
+   "translating": {
+      "message": "Translating..."
+   }
+}

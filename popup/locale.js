@@ -1,0 +1,1 @@
+$(function(){$(".locale").each(function(e,t){var a=$(t),c=chrome.i18n.getMessage(a.data("locale"));c&&a.text(c)});var e=$($("#from_select").find("option")[0]),t=chrome.i18n.getMessage("detect");t&&e.text(t)});
